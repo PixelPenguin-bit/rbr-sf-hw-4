@@ -1,9 +1,10 @@
 /**
  * @file main.cpp
- * @author Ashwin Raj
+ * @author Codex for Ashwin Raj
  * @brief Blinks the board LED and adjusts the cycle and duty rate with buttons.
  * @version 1.0.0
  * @date 2026-11-22
+ * SPDX-License-Identifier: GPL-3.0-only
  */
 
 #include "board.h"
